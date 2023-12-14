@@ -7,8 +7,8 @@
 </head>
 <body>
     <link rel="stylesheet" href="style.css">
-    <a href="./importantEvents.html"><button class="nextButton navButton">Next</button></a> <!--Next Button-->
+    <a href=""><button class="backButton navButton">Back</button></a> <!--Back Button-->
+    <a href=""><button class="nextButton navButton">Next</button></a> <!--Next Button-->
     <p class="pageNum">1</p> <!--Shows current page number-->
-    <p style="font-size: 3vmax; white-space: nowrap; text-align: center;">Bentworth Almanac</p>
 </body>
 </html>

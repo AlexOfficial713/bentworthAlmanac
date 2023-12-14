@@ -1,0 +1,39 @@
+.navButton {
+    width: 10vmax;
+    height: 5vmax;
+    border-radius: 1vmax;
+    border: 2px solid black;
+    background-color: tan;
+}
+
+body {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nextButton {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.backButton {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+.pageNum {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 10px;
+}
+
+.centerX {
+    justify-content: center; 
+    align-items: center; 
+    display: flex; 
+    margin: 0px;
+}
